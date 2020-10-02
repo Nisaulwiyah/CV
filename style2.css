@@ -1,0 +1,102 @@
+body{
+    margin: 0px;
+    background-color:darkorange;
+    color: black;
+    text-align: center;
+    font-family:font-family: 'Fira Sans', sans-serif;
+    font-size:20px;
+}
+h1{
+    margin-bottom: 30px;
+}
+h2{
+    color: midnightblue;
+}
+p{
+    line-height: 1.5;
+}
+a{
+    text-decoration: none;
+    color: #2F4F4F;
+}
+a:hover{
+    color:white;
+}
+.section{
+    margin-bottom: 100px;
+}
+.button{
+    line-height: 3;
+    text-align: left;
+}
+.btnn{
+    background-color: orangered;
+    color: black;
+    padding: 12px 30px;
+    border-radius: 5px;
+
+}   
+.btn{
+    background-color: orangered;
+    color: black;
+    padding: 12px 30px;
+    border-radius: 5px;   
+}   
+.wrapper{
+    width: 720px;
+    padding-top:225px; 
+    margin: 0 auto;
+ }
+  
+.profil{
+    float: right;
+    border-radius: 100%;
+    margin-left: 30px;
+}
+.intro{
+    text-align: left;
+}
+  /*section pertama*/
+.title{
+    font-family: 'Caveat', cursive;
+    font-size:4.5rem;
+    display: block;
+    font-weight: bold;
+}
+  /*section kedua*/
+  .skill-row{
+      text-align: left;
+      margin-bottom: 100px;
+  }
+.ux-skill-img{
+    float: left;
+    margin-right: 30px;
+}
+.web-skill-img{
+    float: right;
+    margin-left: 30px;
+}
+ /*section ketiga*/
+ .cta-text{
+     width: 60%;
+     margin: 0px auto 20px auto;
+ }
+ /*footer*/
+ .footer{
+     background-color:#2F4F4F;
+     padding:20px 0 30px;
+ }
+ .social-links{
+     margin: 0 12px 20px;
+     color: tomato;
+ }
+ .footer-text{
+     font-size: 14px;
+     margin: 30px;
+     color: white;
+ }
+#attribute{
+    position: absolute;
+    left: 310px;
+    top:150px;
+}
